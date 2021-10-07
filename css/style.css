@@ -115,6 +115,21 @@ header nav ul li.current a {
 	list-style-type: none;
 }
 
+#member ul li {
+	margin-bottom: 10px;
+	list-style-type: none;
+}
+
+#about us ul li {
+	margin-bottom: 10px;
+	list-style-type: none;
+}
+
+#contact ul li {
+	margin-bottom: 10px;
+	list-style-type: none;
+}
+
 #sidebar ul li {
 	margin-bottom: 20px;
 	list-style-type: none;
