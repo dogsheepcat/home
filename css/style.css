@@ -94,12 +94,12 @@ header nav ul li.current a {
 }
 
 #mission dt {
-	width: 7em;
+	width: 20em;
 	font-size: 1.5rem;
 }
 
 #mission dd {
-	width: calc(100% - 7em);
+	width: calc(100% - 20em);
 }
 
 #mission dd {
