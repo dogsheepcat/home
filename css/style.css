@@ -87,22 +87,22 @@ header nav ul li.current a {
 	font-size: 1.2rem;
 }
 
-#info dl {
+#mission dl {
 	display: flex;
 	flex-wrap: wrap;
 	margin-bottom: 50px;
 }
 
-#info dt {
+#mission dt {
 	width: 7em;
 }
 
-#info dd {
+#mission dd {
 	width: calc(100% - 7em);
 }
 
-#info dt,
-#info dd {
+#mission dt,
+#mission dd {
 	margin-bottom: 10px;
 }
 
