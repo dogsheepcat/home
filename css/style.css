@@ -101,9 +101,12 @@ header nav ul li.current a {
 	width: calc(100% - 30em);
 }
 
-#mission dt,
 #mission dd {
 	margin-bottom: 10px;
+}
+
+#mission dt {
+	margin-bottom: 40px;
 }
 
 #campaign ul li {
