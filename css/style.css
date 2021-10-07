@@ -91,11 +91,11 @@ header nav ul li.current a {
 	display: flex;
 	flex-wrap: wrap;
 	margin-bottom: 50px;
-	font-size: 1.5rem;
 }
 
 #mission dt {
 	width: 7em;
+	font-size: 1.5rem;
 }
 
 #mission dd {
