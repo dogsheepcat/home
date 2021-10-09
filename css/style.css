@@ -84,7 +84,7 @@ header nav ul li.current a {
 #home h2 {
 	margin-bottom: 20px;
 	padding-bottom: 5px;
-	border-bottom: 1px solid #8c6239;
+	border-bottom: 1px;
 	font-size: 1.2rem;
 }
 
