@@ -172,6 +172,11 @@ small {
 	font-size: 0.7rem;
 }
 
+.label {
+    display: block;
+}
+
+
 input[type="nickname"]{
 padding: 10px;
 width: 100%;
