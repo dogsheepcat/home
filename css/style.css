@@ -176,14 +176,12 @@ input[type="nickname"]{
 padding: 10px;
 width: 65%;
 color:#999;
-border:10px solid #999;
 margin-bottom: 10px;
 }
 input[type="email"]{
 padding: 10px;
 width: 65%;
 color:#999;
-border:10px solid #999;
 margin-bottom: 10px;
 }
 textarea{
@@ -192,7 +190,6 @@ height: 100px;
 color:#999;
 font-size: 14px;
 width: 65%;
-border:10px solid #999;
 }
 button{
 background: #8c6239;
