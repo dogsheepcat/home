@@ -172,6 +172,35 @@ small {
 	font-size: 0.7rem;
 }
 
+input[type="nickname"]{
+padding: 10px;
+width: 65%;
+color:#999;
+border:1px solid #999;
+}
+input[type="email"]{
+padding: 10px;
+width: 65%;
+color:#999;
+border:1px solid #999;
+}
+textarea{
+padding: 10px;
+height: 100px;
+color:#999;
+font-size: 14px;
+width: 65%;
+border:1px solid #999;
+}
+button{
+background: #5250e0;
+color: white;
+font-size:16px;
+font-weight:bold;
+padding: 10px 20px;
+margin: 0 5px;
+}
+
 /* responsive */
 @media (max-width: 600px) {
 	html {
