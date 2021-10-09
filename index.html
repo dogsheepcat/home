@@ -89,12 +89,30 @@
 				<section id="contact">
 					<h2 id="num5">Contact</h2>
 					<ul>
-						<li>日頃の感謝を込めて、パスタ全品がいつもよりお得に！</li>
-						<li>平日11時から14時までお得なランチタイムを実施中。</li>
-						<li>
-							バイオリン演奏付きのスペシャルディナーイベントの早期予約受付中。
-						</li>
-						<li>夏限定のスペシャルフルーツサンドを楽しもう！</li>
+						<form action="送信先のURL">
+						  <div>
+						    <label>
+						      名前
+						      <input type="text" name="nickname">
+						    </label>
+						  </div>
+						  <div>
+						    <label>
+						      生年月日
+						      <input type="date" name="dob">
+						    </label>
+						  </div>
+							
+						<div>
+						    <label>
+						      自由記入欄
+						      <textarea name="example" rows="8"></textarea>
+						    </label>
+						</div>
+						<form>
+						  <input type="text" name="nickname" required>
+						  <button type="submit">送信する</button>
+						</form>
 					</ul>
 				</section>
 			</main>
